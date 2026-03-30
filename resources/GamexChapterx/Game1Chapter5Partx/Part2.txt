@@ -1,0 +1,72 @@
+﻿Chapter 5 - Deadly Life
+
+You will appear in the garden.
+Examine the dead body.
+This prompts a sequence in the Gardens.
+Examine:
+Dead body
+Red object (near the feet of the dead body)
+Key
+Next
+Leave the Garden and go to the Data Center on the third floor.
+
+THIRD FLOOR HALLWAY
+Examine the Data Center door.
+Enter the Data Center.
+Examine:
+Computer monitors
+Monitor with globe on it
+TV on the desk
+Monokuma door
+Next
+Leave the Data Center and go to the Garden.
+
+GARDEN
+Examine:
+Dead body
+Tattoo on right hand
+Top half of body
+Leave the dead body.
+Examine:
+Combat knife
+Chicken coop
+Next
+Enter Tool Shed.
+Examine the tarp.
+Leave the Tool Shed.
+GARDEN
+Speak with Byakuya and pursue 'Talk'.
+Speak with Aoi.
+Speak with Hiro.
+Examine the red control box.
+Speak with Byakuya.
+Leave the Garden and go to the Gym.
+
+GYM
+Examine the broken Monokuma.
+GARDEN
+Speak with Byakuya.
+Leave the Garden and go to Kyoko's room on the first floor.
+
+DORMS HALLWAY
+Speak with Byakuya.
+Enter Kyoko's room.
+Examine the wooden key on the table.
+Speak with Byakuya.
+Examine her bed.
+Leave Kyoko's room and go to the Dojo on the fifth floor.
+
+DOJO
+Examine the locker.
+Leave the Dojo and go to the Archive in the Library on the second floor.
+
+ARCHIVE
+Speak with Byakuya
+
+HALLWAY
+Enter the red door.
+
+ELEVATOR ROOM
+Speak with Kyoko.
+Enter the elevator.
+

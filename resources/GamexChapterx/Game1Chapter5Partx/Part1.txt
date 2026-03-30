@@ -1,0 +1,66 @@
+﻿Chapter 5 - 100 Mile Dash; Pain of a Junk Food Junkie
+
+MAKOTO'S ROOM
+Exit your room and go to the Dining Hall.
+Leave the Dining Hall and go to the fifth floor.
+
+FIFTH FLOOR HALLWAY
+Examine the Bio Lab door.
+Enter the Dojo.
+
+DOJO
+Speak with Kyoko.
+Examine the lockers and the Cherry blossom trees.
+Leave the Dojo and go to Class 5-C.
+
+CLASS 5-C
+Examine the bloodstains & chalk outlines.
+Leave Class 5-C and go to the Garden.
+
+Speak with Hiro.
+Examine
+Chicken coop
+Red control box
+Large flower
+Next
+Enter the Tool Shed at the far end of the Garden.
+
+TOOL SHED
+Examine the pickaxe.
+
+DINING HALL
+Speak with Byakuya.
+Speak with Aoi and pursue: 'Layout of the school'.
+Speak with Hiro and pursue:
+'Stupidly large plant'
+'Chicken coop'
+'Tool shed'
+Next
+Speak with Toko.
+Speak with Kyoko.
+After the Dining Hall sequence, the player will be returned to Makoto's room.
+Examine your door.
+Leave the room and go to the Dressing Room in the Bath House.
+
+DRESSING ROOM
+Talk to the person there.
+After an event in the Dressing Room, the player will be returned to Makoto's room.
+Leave your room and go to the Dining Hall.
+
+DINING HALL
+After the sequence in the Dining Hall, the player will be returned to Makoto's room.
+FREE TIME x2
+
+Own Room
+Examine desk drawer.
+
+Dining Hall
+Talk to person there.
+Reaction "Where everyone else is."
+
+Gymnasium
+Talk to person in the center of the room.
+
+4th Floor
+Examine door of the headmaster's office.
+

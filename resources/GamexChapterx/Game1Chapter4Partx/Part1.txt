@@ -1,0 +1,76 @@
+﻿Chapter 4 - All*Star*Apologies
+
+Your room
+Leave and go to the Dining Hall.
+
+DINING HALL
+Leave the Dining Hall and go to the fourth floor.
+
+FOURTH FLOOR HALLWAY
+Enter the Music Room.
+
+MUSIC ROOM
+Speak with Kyoko and choose not to tell her about what you saw the night before.
+Leave the Music Room and go to the door to the Data Center.
+
+HALLWAY
+Examine the Data Center door.
+Go to the Headmaster's Office.
+Examine the Headmaster's Office door.
+Enter the side office.
+
+OFFICE
+Examine the picture on the floor
+Leave the Office and go to the Chem Lab.
+
+CHEM LAB
+Examine the Chemical cabinet.
+
+DINING HALL
+Talk to everyone.
+School rule is added.
+
+Bath House
+Go to bath house.
+Talk to person in the center of the room.
+Examine laptop.
+
+Dining Hall
+Go to dining hall.
+Talk to person who is 2nd from the right.
+FREE TIME x2
+
+Gymnasium
+Go to gymnasium for an event.
+
+Dining Hall
+Go to dining hall for an event.
+FREE TIME x2
+
+Dining Hall
+Leave your room for an event.
+Head to the dining hall.
+
+Infirmary
+Talk to the person on the right.
+Reaction "Fight."
+After the event, talk to remaining people.
+Reaction "That issue."
+Reaction "Something else."
+
+Bath House
+Examine laptop.
+Choose "The 2nd floor's.../The Secret Room"
+
+2nd Floor Boys Bathroom
+Examine stall with cleaning tools.
+
+???/Secret Room
+Examine the Storage closet and the desk.
+
+Own Room
+Examine the door.
+
+2nd Floor
+Talk to the person standing in front of Recreation room.
+

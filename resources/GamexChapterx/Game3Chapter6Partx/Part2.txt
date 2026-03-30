@@ -1,0 +1,75 @@
+﻿Class Trial
+
+Multiple Choice: Retry a past case
+Multiple Choice: Ultimate Survivor
+Multiple Choice: Survivor Perk
+Nonstop Debate: Survivor's Perk Monopad > Rantaro himself
+Rebuttal Showdown: Final Picture of Rantaro > He didn't bring the Survivor Perk
+
+Psyche Taxi:
+[1] How many Monopads did Rantaro have in the library? 2
+[2] Which Monopad was taken away? Survivor Perk Monopad
+[3] Where was that Monopad taken to? Hidden room
+[4] Who can enter the hidden room? Mastermind
+
+Nonstop Debate: The Sixth Monokub > HOW-WOULD-THEY-KNOW-WHAT-WAS-HAPPENING-IN-THE-LIBRARY
+Multiple Choice: Mastermind
+Nonstop Debate: Kaede had it > Shot Put Ball with Pink Fiber
+Multiple Choice: The Mastermind took it
+Nonstop Debate: Clues to the Mastermind > 17th person is the mastermind
+Multiple Choice: A participant of the killing game
+Multiple Choice: Alibis for Rantaro's murder
+Nonstop Debate: Hidden Room Passageway > I couldn't have killed Rantaro
+Rebuttal Showdown: Motherkuma's Voiceprint System > There's no evidence
+
+Select Someone: Tsumugi Shirogane
+
+Closing Argument:
+[1] The people in the dining hall
+[2] Shuichi runs
+[3] Rantaro lured to the camera
+[4] Right above Rantaro's head
+[5] Mastermind peeks out
+[6] Survivor Perk
+[7] Can you recycle a shot put ball?
+[8] Hidden passageway in the bathroom
+
+Nonstop Debate: History of Hope's Peak > Just a single high school girl
+Nonstop Debate: History of Hope's Peak > Ultimate Despair
+Nonstop Debate: History of Hope's Peak > Recruitment of talented students
+Truth Bullet: Kokichi's Motive Video
+Hangman's Gambit: IMPLANT
+Multiple Choice: It is fictional
+Hangman's Gambit: 53
+
+Hidden Monokuma found in the minigame
+
+Mind Mine: Team Danganronpa
+Multiple Choice: Fictional characters
+Multiple Choice: Normal people
+Multiple Choice: Audience survey
+
+Mass Panic Debate: Hope > Despair / Despair / Despair / Despair / Despair's / Despair
+Rebuttal Showdown: Hope > Despair
+
+Multiple Choice: You participate in the next killing game
+
+Nonstop Debate: Hope / Despair > Hope
+Nonstop Debate: Use Our Lives > We revolt against the outside world!
+Nonstop Debate: Use Our Lives > Going to end Danganronpa!
+Nonstop Debate: Continue the Game / Stop the Game > Weak Point doesn't matter
+
+Hangman's Gambit: Wait until time runs out
+Psyche Taxi: Wait until time runs out
+Multiple Choice: Wait until time runs out
+
+Argument Armament:
+[1] FICTION CAN CHANGE THE WORLD!
+[2] THE KILLING GAME IS WRONG!
+[3] IT'S NOT POINTLESS, OUR LIVES ARE OUR WEAPONS!
+
+Final Argument: WE'LL END DANGANRONPA WITH OUR OWN HANDS!
+
+Voting Time
+- Wait until time runs out
+Tsumugi Shirogane

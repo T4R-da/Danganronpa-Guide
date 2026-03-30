@@ -1,0 +1,98 @@
+﻿Chapter 3 - A Next Generation Legend! Stand Tall, Galactic Hero! - Daily Life
+
+Hope's Peak Academy 2nd Floor Hallway
+Investigate staircase leading up to 3rd floor.
+
+Third Floor Hallway
+Enter the Rec Room.
+
+Rec Room
+Leave the Rec Room and go to the Art Room.
+
+Art Room
+Speak with Hifumi and pursue: Sculpting tools.
+Enter the Repository.
+
+Repository
+Examine: Picture on the floor.
+Leave the Repository and the Art Room and go to the Physics Lab.
+
+Physics Lab
+Speak with Taka.
+Examine: Air purifier, Camera.
+Enter the Equipment Room at the back.
+
+Equipment Room
+Leave the Equipment Room and go to the Dining Hall.
+Talk with everyone.
+Talk to person on the far right and pursue: Anime characters.
+Speak with Celeste and pursue: Bothering me.
+Speak with Aoi and pursue: The truth.
+
+Bath House
+Examine lockers.
+Examine notebook computer.
+Examine door to the big public bath (If you have "A Man's Fantasy" present (Item #93) at this point, you'll get bath scene CG).
+
+Dining Hall
+Go to dining hall for an event.
+
+Day 12 Day Time
+Free Time
+
+Own Room
+Examine the door.
+
+Bath House
+Go to bath house for an event.
+
+Day 13 Morning
+Go to dining hall for an event.
+
+Bath House
+Talk to person in the center.
+Reaction "The same mistake."
+Talk to person in front of you on the right side.
+
+Day 13 Day Time
+Free Time x2
+
+Dining Hall
+Go to dining hall for an event.
+
+Day 14 Day Time
+Free Time x2
+
+Own Room
+Examine paper underneath the door.
+
+Dining Hall
+Go to dining hall for an event.
+
+Bath House
+Talk to person in front of the lockers.
+
+Hope's Peak Academy 1st Floor Hallway
+After the event, begin investigation.
+After entering and exiting two rooms (doesn't matter which), you will get an event.
+
+Recreation Room
+Talk to the person there.
+Examine hammer behind the left of that person.
+Reaction "Something incredible/Serious problem"
+
+Library
+Talk to the person in the center of the room.
+Examine hammer on the bottom left of the person in the center of the room.
+Exit the Library and go to class 2-B.
+
+Class 2-B
+Leave Class 2-B and go to the Nurse's Office.
+
+Infirmary
+Examine hammer on the floor near center of the room.
+Leave the Infirmary and go to the Physics Lab.
+
+Physics Lab
+Enter the Equipment Room.
+

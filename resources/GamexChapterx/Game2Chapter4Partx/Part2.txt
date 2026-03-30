@@ -1,0 +1,81 @@
+﻿Chapter 4-2 : Do Ultimate Robots Dream of Clockwork - Deadly Life
+1. Grape Hall
+- Receive Monokuma Files #4
+- Talk to Chiaki
+- Talk to Sonia
+- Talk to Akane
+- Examine the body
+- the oil
+- the head
+- the chest
+- the wire near his feet
+
+- Examine the hammer
+- Examine the door
+- Examine the blue stained pillar on your left
+- Exit the area
+
+2. Grape House 1st floor
+- Examine the elevator
+- Go to 2nd Floor and head to lounge
+- Pick up the phone
+- a scene will play
+
+3. Strawberry House
+- Talk to Kazuichi
+- Talk to Fuyuhiko
+- Head down to 1st floor
+- Examine Elevator
+- Examine Hall Door
+- Examine The Final Death Room
+
+4. The Final Dead Room
+
+-Go around the room and notice the numbers written on the wall
+- Number 3 above Monomi
+- Number 9 above the desk ( you can see the line, thus it is 9 not 6)
+- Number 7 above the TV
+- Number 5 appear if you open the closet
+- Grab the hanger from the closet
+- Press [R] to close the closet
+
+- Examine the Safe with 4 digits number and enter "3 9 5 7" and press OK to obtain "Camera" and "USB disk"
+
+- Examine The Desk
+- Examine the middle drawer to get Pliers
+- Examine the right drawer and get uncompress password
+- Press [R] to exit
+
+- Right click at "The Plier" & Left Click it on "The Hanger" to obtain "Wire"
+- Use "The Wire" on the bed to obtain "Key"
+- Use the key on the left drawer at the desk to obtain "Scissor"
+- Use "Scissor" on Monokuma Plushie to obtain "Battery"
+- Use "Battery" on "Camera"
+- Left click "The Camera" to examine it
+- Use "USB Disk" on the laptop (try to use it twice until they prompt you to enter the password)
+- Enter "SMVEMJS" ( Sun, Mercurius, Venus, Earth, Mars, Jupiter, Saturn)
+- Examine the safe again, this time enter "9875"
+- the other device with green digit number is now has its slot open
+- Use the USB on the slot
+- A scene will play
+- Examine the window
+- Move your camera to the left until you see another room
+- Examine the hatch
+
+5. Grape House
+- Speak with Nagito twice
+- Go to 1st floor
+- Head to Grape Hall Door
+- Talk with Kazuichi
+- Examine the hammer
+- Examine the body
+- Examine the chest
+- Talk to Nagito
+- Exit the area and head to Elevator
+
+6. Strawberry House
+- Head to Strawberry Hall Door
+- Check the Grape door
+
+-END-
+

@@ -1,0 +1,114 @@
+﻿Chapter 6 - Ultimate Pain, Ultimate Suffering, Ultimate Despair, Ultimate Execution, Ultimate Death
+Deadly Life
+
+TRASH ROOM
+Speak with Kyoko.
+
+TROPHY ROOM
+Speak with Kyoko and pursue: 'Let down their guard'.
+Enter the Gym.
+After the event in the Gym, leave the Gym and go to the Dining Hall with Kyoko.
+Speak with Kyoko and pursue:
+'What I have to tell you all'
+'Can't agree'
+Next
+Speak with Kyoko.
+
+SECOND FLOOR HALLWAY
+Go to the Headmaster's Private Room. 
+Follow the hallway straight and then turn right and enter the door all the way down on the left.
+
+HEADMASTER'S PRIVATE ROOM
+Examine the computer and the concealed door.
+Speak with Kyoko and pursue: 'Password'.
+Examine the computer and the concealed door.
+
+HEADMASTER'S SECRET ROOM
+Examine the present.
+Speak with Kyoko.
+Examine the picture and the desk.
+Speak with Kyoko and pursue 'Favor'.
+Leave the Headmaster's Secret Room and the Private Room and go to the Locker Room. 
+It's the orange double doors near the Headmaster's Private Room.
+
+Examine:
+Locker on the left
+Crystal ball
+Cards
+Notebook
+Locker in the middle
+Pocketbook
+Next
+
+LOCKER ROOM
+Leave the Locker Room and go to the Data Center on the fourth floor.
+
+DATA CENTER
+Enter the Control Room through the Monokuma door.
+Examine the computer.
+Return to the Data Center.
+
+DATA CENTER
+Speak with Monokuma.
+Go back into the Control Room.
+After an event in the Control Room, leave and go to the Headmaster's Office (not to be mistaken with the Headmaster's Private Room).
+
+HEADMASTER'S OFFICE
+Speak with Byakuya and pursue:
+Something interesting
+Information about Mukuro
+Advice
+Examine the Headmaster's desk.
+Go to the Bio Lab on the fifth floor.
+
+BIO LAB
+Examine:
+Freezers on the left (lights active)
+Freezers on the right (lights inactive)
+Desk
+Tarps
+Leave the Bio Lab and go to the Dojo.
+
+DOJO
+After the event in the Dojo, go to the Garden.
+Enter the Tool Shed.
+
+TOOL SHED
+Examine the tarp and the pickaxe.
+
+GYM
+Examine the envelope.
+Leave the Gym and go to the Archive on the second floor.
+
+ARCHIVE
+Speak with Byakuya.
+
+DINING HALL
+Speak with Aoi.
+Go to the Garden on the fifth floor.
+
+GARDEN
+Speak with Hiro.
+
+BIO LAB
+Examine Toko and the dead body.
+Speak with Kyoko and pursue 'Mukuro's body'
+Examine:
+Freezers on the left
+Tarps
+Speak with Kyoko and pursue:
+'Report'
+'The condition of the body'
+Next
+Speak with Kyoko.
+Leave the Bio Lab and go to the A/V Room on the first floor.
+
+A/V ROOM
+Examine the control console.
+
+HALLWAY
+Enter the red door.
+
+ELEVATOR ROOM
+Enter the elevator.
+

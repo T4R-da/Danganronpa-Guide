@@ -1,0 +1,87 @@
+﻿Class Trial
+
+Nonstop Debate: Small Bottle of Poison > Poisoned her
+or for backroute option
+Nonstop Debate: Small Bottle of Poison / Small Antidote Bottle > Poisoned her
+Truth Bullet: Killing Game Simulator
+Nonstop Debate: Miu's Corpse > Strangulation
+Truth Bullet: Toilet Paper
+Rebuttal Showdown: Killing Game Simulator > Tear
+Multiple Choice: Miu Iruma
+Nonstop Debate: Miu and Kokichi's Meeting > Met up with someone
+Multiple Choice: Kill Kokichi
+
+Psyche Taxi:
+[1] Who tried to kill Kokichi? Miu Iruma
+[2] Where was Miu trying to kill Kokichi? The Virtual World
+[3] Why was a bottle of poison on Kokichi's seat? To divert attention
+Nonstop Debate: Login/Logout Record > Miu couldn't have placed the poison
+Truth Bullet: Cell Phone
+Nonstop Debate: Tsumugi's Account > At the chapel
+Nonstop Debate: Wall Added by Miu > A hidden route that only Miu could use
+Rebuttal Showdown: Miu's Avatar > She's not just an object
+Truth Bullet: Loud Noise
+Mind Mine: Signboard
+
+Psyche Taxi:
+[1]At which point was the signboard swept away? River
+[2] Where is the end of the river? Chapelside
+[3] Where was the signboard found after it was swept away? Mansionside
+[4] Compared to the river's current which way did the signboard float? Against the current
+
+Truth Bullet: Wall Added by Miu
+Multiple Choice: Downstream and upstream connect
+Multiple Choice: They're the same wall
+Hangman's Gambit: WORLD LOOPS
+Spot Selection: Line in the middle
+
+Multiple Choice: Miu hitting the wall
+Hidden Monokuma found in the minigame
+Hangman's Gambit:Slid Off Roof
+Nonstop Debate: Lattice Near the Chapel > Nothing like that around
+or for backroute option
+Nonstop Debate: Signboard Used as a Bridge / Signboard Used as an Sign > Nothing like that around
+Select Someone: Kokichi Ouma
+Mind Mine: "Also, I never went to the roof, not even for the meeting."
+Nonstop Debate: Kokichi In the Salon / Kokichi Not in the Salon > In the salon the whole time
+Nonstop Debate: Setting on Kokichi's Avatar > Kept Strangling Her
+
+Debate Scrum:
+[1] Culprit
+[2] Sweetheart
+[3] Rooftop
+[4] Entrance Hall
+[5] Monokuma
+[6] Kokichi
+[7] Miu
+
+Multiple Choice: After logging out of the Virtual World
+Truth Bullet: Avatar Error
+Hangman's Gambit: Memory Loss
+Mass Panic Debate: Device Instructions > There was no glitch
+Multiple Choice: They couldn't access the crime scene
+Multiple Choice: He was logged out
+Multiple Choice: We have solid alibis
+Multiple Choice: He couldn't have killed Miu
+Select Someone: Gonta Gokuhara
+Argument Armament: TOILET PAPER DISCOVERED OUTSIDE OF THE MANSION
+Spot Selection: The Binoculars
+
+Closing Argument:
+[1] Blue cord on the right, red cord on the left
+[2] Bottle of poison
+[3] Map of the Virtual World
+[4] Threw the signboard into the river
+[5] Kitchen: Shuichi Saihara, looking for the "secret of the outside world"
+[6] Dining room: Tsumugi Shirogane, looking for the "secret of the outside world"
+[7] Roof: Kaito Momota, looking for the "secret of the outside world"
+[8] Outside: The culprit, looking for the "secret of the outside world"
+[9] The cell phone
+[10] Kaito Momota logged out
+[11] Miu smuggles in a hammer
+[12] Toilet paper that doesn't tear
+[13] Lattice used like a sled
+[14] The binoculars and toilet paper
+
+Voting Time
+Gonta Gokuhara

@@ -1,0 +1,62 @@
+﻿Chapter 2 - Boys' Life of Despair - Deadly Life
+
+Girls Locker Room
+Examine words on the wall.
+Addition to school rules.
+Chapter 2 - Deadly Life
+
+Girls Locker Room
+"Monokuma File #2."
+Examine dumbbell on the floor, receive word bullet "Dumbbell in changing room."
+Talk with the person on far right, receive word bullet "(Mondo's) account."
+Talk with the second person from the right, receive word bullet "(Sakura's) account."
+Hallway in front of the pool
+Examine card reader of changing rooms, receive word bullet "Card reader."
+Entrance Lobby
+Examine lettercase, receive truth bullet "e-Handbook in entrance lobby."
+After this, talk to the person there to receive word bullet "Broken e-Handbook."
+Talk to same person once more.
+
+Reaction "Genocide Jack."
+Reaction "Basis"
+Talk to new person who has appeared.
+Reaction "Emergency!"
+
+1st Floor Dorms Passageway
+Talk with the person who comes later in the entrance lobby.
+Examine room door.
+After this, talk with the person who was with you in the entrance lobby.
+
+Library
+Investigate door to Archives room.
+
+Archives
+Examine the wooden box on top of the cardboard box near the center of the room, the desk lamp on the floor and the three different parts of the shelves.
+Reaction "Reviewed them multiple times"
+After talking with the person you are with, receive word bullet "Genocide Jack case files."
+
+Hallway in front of the pool
+Talk with the person there.
+
+Boys Locker Room
+Examine carpet, receive truth bullet "Carpet in boys locker room."
+Examine poster.
+
+Girls Locker Room
+Talk to person in the center, receive truth bullet "(Chihiro's) e-Handbook."
+After this, examine the victim to receive word bullet "Condition of the corpse."
+After you've examined the poster in the boys changing room and then examine the poster here, receive word bullet "Two Locker Room Posters."
+After this, talk with person on the far left to receive word bullet "Disappearing Stain"
+
+Library
+Examine the Desk Lamp, receive word bullet "Library Desk Lamp."
+
+Archives
+Examine the right side of the bookshelf in front of you.
+
+Dining Hall
+Talk with person there, receive truth bullet "(Aoi's) account."
+
+Warehouse
+Talk with person there, receive word bullet "(Celeste's) account."
+

@@ -1,0 +1,40 @@
+﻿Chapter 4 - Deadly Life
+
+Recreation Room
+After the event, you will receive word bullet "Monokuma File 4."
+Examine victim for word bullet "Condition of the victim's corpse."
+Examine dotted paper at the victim's feet, receive word bullet "Red polka-dotted candy wrapper."
+Examine red stuff on floor behind the victim, receive word bullets "Glass fragments on the floor" and "Figure on the floor."
+Examine bloodstain beneath the magazine rack, receive word bullet "Bloodstain in front of magazine rack."
+Examine shelf next to magazine rack, receive word bullet "Monokuma Bottle."
+Examine locker, receive word bullet "Handprint on the locker."
+Examine container on the floor near the entrance of the room, receive word bullet "Empty protein shaker."
+After examining both "Entrance doorway" and "Chair nearby the entrance," receive word bullet "Recreation room's door."
+Leave the Rec Room and go to the Dorms hallway.
+
+DORMS HALLWAY
+Speak with Toko and pursue 'Talk'.
+Speak with Hiro and pursue 'Need something'.
+Go to the Chem Lab on the fourth floor.
+
+CHEM LAB
+Examine:
+Chemical cabinet
+Left cabinet
+Center cabinet
+Right cabinet
+Footprints
+Broken glass bottle
+Next
+Leave the Chem Lab and return to the Rec Room.
+
+REC ROOM
+Speak with Kyoko.
+Examine the glass bottles, dead body and the magazine stand.
+
+HALLWAY
+Enter the red door.
+
+ELEVATOR ROOM
+Enter the elevator.
+

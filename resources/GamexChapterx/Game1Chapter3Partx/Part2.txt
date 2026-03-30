@@ -1,0 +1,76 @@
+﻿Chapter 3 - Deadly Life
+
+EQUIPMENT ROOM
+Examine Toko & Justice Hammer # 4.
+Leave the Equipment Room and the Physics Lab and go to the Art Room.
+
+ART ROOM
+Examine the Repository door.
+Exit the Art Room and go to the Rec Room.
+
+REC ROOM
+Exit the Rec Room and go to Class 3-B.
+
+CLASS 3-B
+Exit Class 3-B and go back to the Art Room.
+
+ART ROOM
+Enter the Repository.
+
+REPOSITORY
+Examine:
+Dead body 1
+Dead body 2
+Hammers
+Dolly
+Next
+Speak with Byakuya.
+Speak with Sakura and choose to review the chain of events.
+Speak with Aoi.
+Leave the Repository and Art Room and go to the Equipment Room in the Physics Lab.
+
+EQUIPMENT ROOM
+Examine:
+Justice Hammer # 4
+Blood
+Tarp
+Next
+Speak with Toko.
+Leave the Equipment Room and the Physics Lab and go to the Nurse's Office on the first floor.
+
+NURSE'S OFFICE
+Speak with Celeste.
+Examine:
+Justice Hammer # 3
+Refrigerator
+Trash can
+Next
+Leave the Nurse's Office and go to Hiro's room.
+
+YASUHIRO'S ROOM
+Examine:
+Boxes
+Next
+Leave Hiro's room and go to the Pool Area on the second floor.
+
+POOL AREA
+Examine:
+Group of people
+Next
+Speak with Kyoko.
+Speak with Hiro.
+Leave the Pool Area and go to the Repository in the Art Room.
+
+REPOSITORY
+Speak with Kyoko.
+Examine:
+Dead body 2
+Next
+Speak with Kyoko.
+
+HALLWAY
+Enter the red door.
+
+ELEVATOR ROOM
+Enter the elevator.
+

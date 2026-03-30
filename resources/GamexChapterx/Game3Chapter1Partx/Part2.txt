@@ -1,0 +1,42 @@
+﻿Chapter 1: Deadly Life
+
+Library
+Receive monokuma file
+Examine moving bookcase
+talk to the person on the far left of the room
+Talk to the person next to them
+Talk to the person on the far right
+Talk to the person in the middle of the room
+Finally talk to the remaining person
+Examine near the body
+Victims body
+Bloody shot put ball
+Rear sliding door
+Front bookcase
+Front double doors
+Air vent
+Head to the game room
+
+Game room
+Talk to the person there
+Examine sliding door
+Talk with everyone
+Examine screen
+
+Examine back sliding door
+
+Hallway
+Speak with the person in the hallway
+Speak to the person by the sliding doors
+Go upstairs and head to classroom A
+Classroom A
+Speak with everyone
+Head back to the library
+Library
+Speak with the person in the middle
+Warehouse
+Speak with the remaining person
+Head to the red door in the courtyard
+
+-End-
+

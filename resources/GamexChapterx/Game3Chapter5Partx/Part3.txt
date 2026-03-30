@@ -1,0 +1,86 @@
+﻿Class Trial
+
+Nonstop Debate: Kokichi's Clothes > No evidence
+Multiple Choice: The sleeve of the jacket
+Rebuttal Showdown: Kaito's Coat > Put his arms through
+Nonstop Debate: Safety Function > Kaito got crushed to death
+or for backroute option
+Nonstop Debate: Murder Video / Survival Video > Kaito got crushed to death
+Truth Bullet: Swipe Pattern Bloodstain
+Spot Selection: The small hole on the sleeve of Kaito's coat
+Truth Bullet: Crossbow
+Nonstop Debate: Bathroom Window > From inside the hangar
+Mass Panic Debate: K1-BO's Account > Empty-handed
+Nonstop Debate: Crossbow > Didn't even use
+Multiple Choice: Kaito Momota
+Truth Bullet: Kokichi's Clothes
+Multiple Choice: Kaito Momota
+
+Debate Scrum:
+[1] Exisal
+[2] Injury
+[3] Crushed
+[4] Arrow Holes
+[5] Mastermind
+[6] Alive
+
+Nonstop Debate: Three Arrows > Only one arrow
+
+Hidden Monokuma found in the minigame
+
+Psyche Taxi:
+[1] How many arrows did Himiko give Kaito? 1
+[2] Were all the arrows inside the hangar from the start? No <3
+[3] Who brought the two arrows? A third party
+Hangman's Gambit: EXISAL
+Nonstop Debate:Used Electrohammer > All the hammers recharging
+or for backroute option
+Nonstop Debate: Hatch's Electronic Lock / Unlocked Hatch > Getting inside one would've been impossible
+Select Someone: Maki Harukawa
+Rebuttal Showdown: Poison > Wouldn't result in a fatal
+Multiple Choice: All of us
+
+Multiple Choice:The control panel being damaged
+Nonstop Debate: Electrobomb > 100% certainty
+Multiple Choice: Disable the press's safety function
+Multiple Choice: Kaito's cause of death
+Truth Bullet: Hydraulic Press
+Multiple Choice: It is not possible
+
+Voting Time
+Maki Harukawa
+or
+Kokichi Ouma
+
+Multiple Choice: Watching him
+Truth Bullet: Murder Video
+Hangman's Gambit: VICTIM
+Nonstop Debate: Hydraulic Press > Hydraulic press stopped
+Mind Mine: Hydraulic Press force stop button
+Mind Mine: Video Camera
+Spot Selection: Hydraulic Press Controls near the switch
+Multiple Choice:The other person in the hangar
+Hangman's Gambit: VICTIM HELPED
+Select Someone: 
+Argument Armament: PRETENDED TO DRINK THE ANTIDOTE
+
+Closing Argument:
+[1] Assembled the crossbow
+[2] Hit the Exisal
+[3] Kokichi's right arm
+[4] An Exisal inside the hangar
+[5] Kokichi's back
+[6] The culprit's left arm
+[7] The only antidote
+[8] Electrobomb!!!
+[9] Drink the antidote...
+[10] Three arrows
+[11] Trail of blood
+[12] The culprit in the press
+[13] Kokichi in the press
+[14] Kokichi's clothes flushed down the toilet
+
+Nonstop Debate: Kokichi's Disappearance / Kokichi Spotted > Kokichi's the one who died
+
+Voting Time
+Kaito Momota

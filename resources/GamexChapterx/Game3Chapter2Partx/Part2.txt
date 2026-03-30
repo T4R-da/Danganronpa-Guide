@@ -1,0 +1,68 @@
+﻿Chapter 2: Deadly Life
+
+Near the Water Tank
+Examine Handcuffs
+Examine Bucket
+Examine Glass panel
+Victims belongings
+Victims body
+
+Stage
+Examine Closed Curtain
+Examine Piranha tank
+
+Gym
+Talk to the person in front of the curtain
+Talk to the person in front of the bucket
+Talk to the 4th person from the left
+Talk to the 2nd person from the right
+
+Backstage
+Examine Rope
+Examine Puddle
+Look at large water tank
+Examine Staircase
+
+Gym
+Talk to the person on the left
+Head to the pool
+
+Pool
+Talk to the person there
+
+Gym window
+Examine the pool
+Bits of fabric
+Inner Tube
+Pool rules
+Pool equipment shed
+Head to the dorms
+
+Dorms
+Enter victims room
+Head to Ultimate Magicians Lab
+
+Ultimate Magicians Lab
+Examine Large water tank
+Talk to the person on the right
+Head to the Ultimate Caregiver Lab
+
+3rd Floor Hallway
+Talk to the person on the right
+Talk to the other person there
+Head to Ultimate Tennis Lab
+
+Ultimate Tennis Lab
+Examine shower room
+Examine Handcuffs
+Look at the sink
+Examine window
+Exit the room
+Examine tennis net
+
+
+Head to the shrine of judgement
+Examine monokuma statue
+
+-END-
+

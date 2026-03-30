@@ -1,0 +1,54 @@
+Chapter 1 - To Survive - Deadly Life
+
+Day 5 Morning
+
+Gymnasium:
+An event will appear.
+Talk to Kirigiri and Celestia.
+Investigate the corpse.
+Received: "Monokuma File 1"
+Leave gymnasium and go to your room.
+
+Own Room
+Examine the drawer behind the bed, receive word bullet "Tool Kit."
+Examine scabbard of imitation sword on the floor, receive word bullet "Imitation Sword Sheathe"
+Examine drawn blade of imitation sword on the floor, receive word bullet 'Imitation Sword."
+Examine key on the floor, receive word bullet "Switching rooms."
+Examine marks on the walls and floor, receive word bullet "Evidence of a struggle."
+After examining the lint roller, talk to the person on the far left.
+Reaction "Very unusual"
+Receive word bullet "Makoto's room's cleanliness."
+Check the shower room.
+
+Shower Room
+Examine victim's body, receive word bullet "Sayaka's wrist."
+Examine wall behind the right side of victim's body.
+
+Own Room
+Reaction "Bloody numbers" to receive word bullets "Dying message" and "Bathroom doorframe"
+Examine door of shower room, receive word bullet "Bathroom doorknob."
+Go outside.
+
+Hallway of 1st Floor Dorms
+Examine name plates of own room and victim's room, receive word bullet "Door Nameplates."
+
+Victim's Room
+Examine trash can.
+Afterwards, go to audiovisual room and examine DVD deck for event.
+
+Trash Room
+Examine bars to receive word bullet "cleaning duty"
+After leaving, when you talk to people you will receive hints on who is in charge of cleaning duty.
+Talk to person in charge of cleaning duties (Yamada) and return once more to the trash room.
+Examine incinerator to receive word bullet "incinerator."
+Examine the shred of white on the grounds of the incinerator, receive word bullet "Burnt shirt piece."
+Examine glass shards below switch, receive word bullet "Shattered Crystal ball."
+After this, go to the gymnasium and talk to the person in the center to update word bullet "Shattered Crystal ball."
+
+Kitchen
+Examine knives hanging on the wall, receive word bullet "Kitchen Knife Set."
+After this, leave the kitchen to go to the dining hall and talk to the person there to receive "Aoi's account"
+
+Red Door
+Examine elevator door to begin the class trial.
+Save point.

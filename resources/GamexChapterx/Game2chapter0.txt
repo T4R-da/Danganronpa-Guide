@@ -1,0 +1,66 @@
+Prologue - Hello Again, Hope's Peak Academy - Danganronpa 2: Goodbye Despair
+
+1 - Beach
+- Make a habit to always examine your surrounding (Press Tab to check which area that available for interaction)
+- Use WASD to navigate your surrounding
+- Talk to the person in front of you
+- Press [R] to exit this area
+
+2 - Bridge
+
+- Here you can press f1 and select "map" to check those 4 areas.
+- Feel free to explore
+- I started by going right of the screen (Press Q or E for fast traveling)
+
+3 - Airport
+
+- Talk with other 2 students
+- Press [R] to exit this area
+
+4 - Rocketpunch Market
+
+- Talk with other 2 students
+- Press [R] to exit this area
+
+5 Hotel
+
+- Press Tab to open the map while moving around
+- Move forward to the swimming pool area and speak with all the students (there are 3 of them)
+- Get inside the hotel (Hotel Lobby)
+
+5B Hotel Lobby
+
+- Talk with 2 other students
+- Press [R] and go to "Restaurant"
+
+5C Restaurant
+
+- Talk with another 2 students
+- Press [R] to go outside
+- Leave the hotel
+
+6 - Ranch
+
+- Talk with another 2 students there
+- Press [R] to exit this area
+
+7 - Central island
+
+- Don't forget to check your pet and press clean (Press f1, Then Pet, then spacebar)
+- Move left until you meet Jabberwock Park
+
+8 - Jabberwock Park
+
+- Talk with the student
+- When you're done talking with everyone, an event should take place
+- Head back to the beach (Area 1)
+
+9 - Beach Again
+
+- Talk with Byakuya, an event will play
+- Talk with the rest, another event will play
+- Talk with Hiyoko
+- Press [R] to exit & return to Jabberwock Park
+- An event will take place
+
+-Prologue End-
