@@ -1,4 +1,4 @@
-# DanganRonpaGuide
+# Danganronpa-guide
 
 ## Requirements
 
