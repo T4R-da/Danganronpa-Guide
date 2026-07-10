@@ -1,1 +1,0 @@
-g++ -O3 src/main.cpp src/guides.cpp -o DanganRonpaGuide.exe
