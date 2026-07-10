@@ -1,29 +1,28 @@
-# Danganronpa-guide
+# DanganRonpaGuide
 
 ## Requirements
 
 To build the project you need:
 
-* **g++** (MinGW / MSYS2 / GCC for Windows)
-* Windows 10 or Windows 11
-* Command Prompt or PowerShell
+* **g++** (GCC, e.g. `sudo apt install build-essential` on Debian/Ubuntu)
+* A Linux terminal
 
 ---
 
 ## How to Build
 
-### Option 1 — Using the batch file
+### Option 1 — Using the shell script
 
 Run this inside the project folder:
 
 ```
-.\build.bat
+./build.sh
 ```
 
 This will compile the project and generate:
 
 ```
-DanganRonpaGuide.exe
+DanganRonpaGuide
 ```
 
 ---
@@ -33,7 +32,7 @@ DanganRonpaGuide.exe
 If you want to compile it yourself:
 
 ```
-g++ -O3 src/main.cpp src/guides.cpp -o DanganRonpaGuide.exe
+g++ -O3 src/main.cpp src/guides.cpp -o DanganRonpaGuide
 ```
 
 ---
@@ -43,5 +42,7 @@ g++ -O3 src/main.cpp src/guides.cpp -o DanganRonpaGuide.exe
 After building, run:
 
 ```
-.\DanganRonpaGuide.exe
+./DanganRonpaGuide
 ```
+
+Run it from the project root (`/home/t4r/Coding/! linux/Danganronpa-guide`) so the relative `resources/` paths resolve correctly.

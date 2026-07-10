@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+   
     for (int i = 0; i < 10; i++)
     {
         // Game selection
@@ -59,7 +60,7 @@ int main()
         cin >> again;
 
         if (again == 'y') {
-            system("cls");
+            system("clear");
         } else {
             cout << "\n-END-\n";
             break;
